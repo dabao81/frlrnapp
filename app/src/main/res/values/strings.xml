@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jeu d\'Orthographe Français</string>
+    <string name="enter_word">Écrivez le mot en français</string>
+    <string name="check_answer">Vérifier</string>
+    <string name="correct">Bravo! C\'est correct! 🎉</string>
+    <string name="incorrect">Essaie encore! 😊</string>
+    <string name="score">Score: %1$d</string>
+    <string name="level">Niveau %1$d</string>
+    <string name="level_complete">Niveau Terminé!</string>
+    <string name="congratulations">Félicitations!</string>
+    <string name="next_level">Niveau Suivant</string>
+    <string name="final_score">Score Final: %1$d</string>
+    <string name="level_a1">DELF A1</string>
+    <string name="level_a2">DELF A2</string>
+    <string name="progress">Progression: %1$d/%2$d</string>
+</resources>
